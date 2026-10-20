@@ -10,8 +10,6 @@
     "CLAUDE_CODE_EFFORT_LEVEL": "max"
   },
   "permissions": {
-    "defaultMode": "acceptEdits"
-  },
-  "theme": "auto",
-  "model": "haiku"
+    "defaultMode": "auto"
+  }
 }
